@@ -1,5 +1,5 @@
-# test
-Project: Sprout Organics – eCommerce Website
+# Project: Sprout Organics – eCommerce Website
+
 
 Website: https://sproutorganics.com.au/ 
 Platform: Shopify
